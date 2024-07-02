@@ -25,7 +25,7 @@ This project outlines my professional goals in the tech industry over the next t
 
 ## Live Demo
 
-You can view the live version of the project [here](https://my-hng-task-one.netlify.app).
+You can view the live version of the project [here](https://hng-frontend-task-one.vercel.app/).
 
 
 
